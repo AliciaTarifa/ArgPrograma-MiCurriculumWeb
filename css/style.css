@@ -1,0 +1,70 @@
+/*** Navbar ***/
+.custom-nav {
+    background-color: #085267;
+    font-weight: 500 !important;
+}
+
+.nav-link {
+    color: #c8ccd0 !important;
+}
+
+.nav-link.active {
+    color: #ffffff !important;
+    background-color: #1b9bbf !important;
+    border-color: #dee2e6 #dee2e6 #fff !important;
+    font-weight: bolder !important;
+}
+
+/*** Body config ***/
+body {
+    font-family: 'Open Sans', sans-serif !important;
+    width: 100% !important;
+}
+
+/*** Mi Curriculum ***/
+.custom-title {
+    background-color: #085267 !important;
+    color: #ffffff !important;
+    font-weight: bolder !important;
+}
+
+.item-habilidad {
+    word-break: break-all; /* Corta las palabras segun el ancho disponible */
+}
+
+/*** Form Creation ***/
+.cv-form-container {
+    max-height: 700px;
+    overflow-y: auto;
+}
+
+/*** img y boton para foto perfil***/
+.img-create {
+    max-width: 150px;
+    cursor: pointer;
+}
+
+.load-foto-button {
+    width: 150px;
+}
+
+.toast-header {
+    background: #1b9bbf !important;
+    color: #c8ccd0 !important;
+    font-weight: bolder !important;
+}
+
+
+/*** Generales ***/
+.custom-icon {
+    color: #085267;
+    font-size: 1.25rem;
+}
+
+.card {
+    border: 1px solid #085267 !important;
+}
+
+.p-20 {
+    padding: 20px;
+}
